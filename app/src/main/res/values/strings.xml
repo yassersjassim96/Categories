@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Categories</string>
+    <string name="categories_text">الأقسام</string>
+    <string name="phones">الهواتف</string>
+    <string name="games">الألعاب</string>
+    <string name="news">الأخبار</string>
+    <string name="security">أمن المعلومات</string>
+    <string name="tech">تكنولوجيا</string>
+    <string name="bitcoin">العملات الرقمية</string>
+</resources>
